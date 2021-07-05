@@ -9,4 +9,6 @@ This is from 12:35 0704U21
 new line test0849
 0850 new line 
 08:56 insert final new line added in settings
+08:59 newline after restart VS Code
+
 
